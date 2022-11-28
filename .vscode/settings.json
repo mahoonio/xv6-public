@@ -2,6 +2,11 @@
     "files.associations": {
         "syscall.h": "c",
         "mmu.h": "c",
-        "proc.h": "c"
+        "proc.h": "c",
+        "defs.h": "c",
+        "types.h": "c",
+        "param.h": "c",
+        "stat.h": "c",
+        "user.h": "c"
     }
 }
